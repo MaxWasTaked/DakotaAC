@@ -1,0 +1,18 @@
+name: mccore
+version: '${project.version}'
+main: mccore.mccore.mccore
+api-version: 1.18
+authors: [ Yonaga678 ]
+description: ""
+website: ""
+
+commands:
+  report:
+    description: Report system for dakota anticheat!
+    usage: /<command>
+  dks_settings:
+    description: The settings option for the anticheat!
+    usage: /<command>
+  dks_info:
+    description: This settings is for the anticheat information!
+    usage: /<command>
