@@ -1,5 +1,7 @@
 # DakotaAC V2.13
 The original minecraft AntiCheat named DakotaAC!
+Download here https://github.com/skypixel-projects/DakotaAC/tags
+Discord here https://discord.gg/tps2GAvJqQ
 
 # Dependency
 **The supported version is 1.8.X -> 1.19.X**
